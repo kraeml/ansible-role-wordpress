@@ -1,0 +1,3 @@
+---
+- src: git+https://github.com/kraeml/ansible-role-nginx.git
+  name: nginx
