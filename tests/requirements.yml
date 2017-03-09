@@ -1,3 +1,2 @@
 ---
-- src: https://github.com/kraeml/ansible-role-nginx
-  name: nginx
+- src: kraeml.nginx

@@ -217,5 +217,4 @@ galaxy_info:
     # alphanumeric characters. Maximum 20 tags per role.
 
 dependencies:
-  - src: https://github.com/kraeml/ansible-role-nginx
-    name: nginx
+  - src: kraeml.nginx
